@@ -1,0 +1,14 @@
+interface:
+  display_name: COVEN+
+  short_description: Expert panel with disciplined cross-examination
+  default_prompt: Use $coven-plus to analyze this consequential decision through independent
+    expert voices, cross-examination, revision, and a direct-answer benchmark.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas

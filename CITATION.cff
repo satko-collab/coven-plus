@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or adapt COVEN+, please cite it using the metadata below."
+title: "COVEN+: Coordinated & Orchestrated Voices for Expert Navigation"
+type: software
+authors:
+  - family-names: "Kowzan"
+    given-names: "Piotr"
+    affiliation: "University of Gdańsk"
+    email: "piotr.kowzan@ug.edu.pl"
+version: "1.0.0"
+date-released: "2026-10-27"
+license: "CC-BY-4.0"
+keywords:
+  - "multi-expert prompting"
+  - "decision support"
+  - "cross-examination"
+  - "meta-prompting"
+  - "LLM orchestration"
